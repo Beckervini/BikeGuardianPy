@@ -1,0 +1,5 @@
+Bike ID: 123
+Modelo: stumpjumper
+Cor: vermelha
+N�mero de S�rie: 333333
+Pre�o: 15000.0
