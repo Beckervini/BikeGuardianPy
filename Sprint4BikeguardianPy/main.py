@@ -6,9 +6,9 @@ import funcoes
 while True:
     try:
         print("- - - Menu Inicial - - -")
-        print("1 - Cadastrar-se como psicologo")
-        print("2 - Cadastrar-se como psiquiatra")
-        print("3 - Cadastrar-se como paciente")
+        print("1 - Cadastrar-se")
+        print("2 - Cadastrar Bike")
+        print("3 - Vizualizar cadastros")
         print("4 - Sair")
 
         opcao = input("Escolha uma opção: ")
